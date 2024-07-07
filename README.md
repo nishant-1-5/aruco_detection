@@ -11,3 +11,4 @@ Just edit your video path in the python file and run.
 ```
 python3 aruco.py
 ```
+[Example Video](https://youtu.be/mZs6m8h7CCA)
